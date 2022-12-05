@@ -1058,3 +1058,7 @@ h4 {
 .white {
     color: white;
 }
+
+h3, h2, p{
+    color: black;
+}
