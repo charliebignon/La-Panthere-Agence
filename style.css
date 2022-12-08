@@ -100,7 +100,8 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+  /*  color: rgba(255, 255, 255, .7);*/
+  color: white;
 }
 
 .d-bloc button:hover {
@@ -779,10 +780,6 @@ h4 {
 
 
 
-.btn-atomic-tangerine {
-    background: #F3976C;
-    color:Black!important;
-}
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
@@ -1044,10 +1041,10 @@ h4 {
 
 
 /****modif***/
-/*
-.col-sm-12 h1 {
-  text-decoration:  black;
-}*/
+
+.col-sm-6 p {
+font-size: 18px
+}
 
 
 .black {
@@ -1059,6 +1056,12 @@ h4 {
     color: white;
 }
 
-h3, h2, p{
+h3, p{
     color: black;
+}
+
+
+.btn-atomic-tangerine {
+    background: #F3976C;
+   /* color:Black!important;*/
 }
