@@ -1065,3 +1065,11 @@ h3, p{
     background: #F3976C;
    /* color:Black!important;*/
 }
+
+label {
+    width: 100%;
+}
+
+.form-group{
+   text-align: center;
+}
